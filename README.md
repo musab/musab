@@ -1,6 +1,6 @@
 ### 👋
 
-![](http://media.giphy.com/media/GuDQNjS0qJHpe/200.gif)
+![](https://emojis.slackmojis.com/emojis/images/1587749549/8757/horror.gif?1587749549)
 
 <!--
 **musab/musab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
