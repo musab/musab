@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+
+![](http://media.giphy.com/media/GuDQNjS0qJHpe/200.gif)
 
 <!--
 **musab/musab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
