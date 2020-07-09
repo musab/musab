@@ -1,5 +1,3 @@
-### 👋
-
 ![](https://emojis.slackmojis.com/emojis/images/1587749549/8757/horror.gif?1587749549)
 
 <!--
